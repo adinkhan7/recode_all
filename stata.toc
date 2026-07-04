@@ -1,0 +1,7 @@
+v 1.0
+d Materials by Ashiqur Rahman Rony
+d Development Research Initiative (dRi)
+d ashiqurrahman.stat@gmail.com
+d https://github.com/yourusername/your-repo-name
+
+p recode_all Recodes all open-ended responses into a main categorical variable.

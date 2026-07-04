@@ -1,0 +1,7 @@
+v 1.0
+d 'RECODE_ALL': A Stata module to recode all open-ended responses to numeric codes
+d 
+d Created by: Ashiqur Rahman Rony
+d Distribution-Date: 20260704
+d 
+F recode_all.ado
